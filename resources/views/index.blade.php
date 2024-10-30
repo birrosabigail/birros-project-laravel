@@ -35,6 +35,7 @@
         <div class="container mx-auto text-center">
             <h2 class="text-4xl font-bold mb-4">About Me</h2>
             <p class="text-lg text-gray-700">I am Birros Abigail Azzidane, a web developer who loves creating interactive web applications. My journey started in Banjarnegara, and I've been coding since I was 16.</p>
+            <a href= "{{ route('about') }}"><h3>Baca Selengkapnya....</h3></a>
         </div>
     </section>
 
@@ -98,3 +99,27 @@
     </footer>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
